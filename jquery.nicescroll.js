@@ -1,5 +1,5 @@
 /* jquery.nicescroll
--- version 3.5.4
+-- version 3.5.4 - Goldinteractive Fork
 -- copyright 2013-11-13 InuYaksa*2013
 -- licensed under the MIT
 --
